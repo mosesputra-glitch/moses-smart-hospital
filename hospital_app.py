@@ -55,17 +55,17 @@ cc_map        = bundle['cc_map']
 DEPT_INFO = {
     'Respiratory Medicine': {
         'icon':'🫁','color':'#0284c7','bg':'#e0f2fe','border':'#7dd3fc',
-        'desc':'respirstory',
+        'desc':'special lises in conditionsaffecting the lungs',
         'next':['Visit Level 2, Wing B','Estimated wait: 15–25 min','Please wear a mask']
     },
     'Cardiology': {
         'icon':'❤️','color':'#dc2626','bg':'#fee2e2','border':'#fca5a5',
-        'desc':'cardio logy',
+        'desc':'specislises in heart',
         'next':['Visit Level 3, Wing A','Estimated wait: 20–30 min','Bring any previous ECG reports']
     },
     'Gastroenterology': {
         'icon':'🫃','color':'#d97706','bg':'#fef3c7','border':'#fcd34d',
-        'desc':'Gastroenterology',
+        'desc':'specislises in digestive system',
         'next':['Visit Level 1, Wing C','Estimated wait: 10–20 min','Avoid eating before consultation']
     },
     'Neurology': {
