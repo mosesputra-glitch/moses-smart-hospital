@@ -222,7 +222,7 @@ with st.form("triage_form"):
     with col_gen:
         gender = st.selectbox("gender", options=['Female', 'Male'])
 
-    submitted = st.form_submit_button("CODENO27 →")
+    submitted = st.form_submit_button("confirm →")
 
 # ── Result ────────────────────────────────────────────────────────────────────
 if submitted:
