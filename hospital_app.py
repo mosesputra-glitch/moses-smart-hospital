@@ -70,7 +70,7 @@ DEPT_INFO = {
     },
     'Neurology': {
         'icon':'🧠','color':'#7c3aed','bg':'#ede9fe','border':'#c4b5fd',
-        'desc':'Neurology',
+        'desc':'specialises in brain',
         'next':['Visit Level 4, Wing A','Estimated wait: 25–35 min','Bring list of current medications']
     },
     'General Medicine': {
@@ -80,7 +80,7 @@ DEPT_INFO = {
     },
     'Dermatology': {
         'icon':'🔬','color':'#b45309','bg':'#fef9c3','border':'#fde68a',
-        'desc':'Dermatology',
+        'desc':'specislises in skin',
         'next':['Visit Level 2, Wing D','Estimated wait: 15–20 min','Bring photos of affected area if possible']
     },
 }
