@@ -144,10 +144,10 @@ with st.form("triage_form"):
     # Section 2 — Duration & Complaint
     st.markdown("""
     <!-- COLOR3 -->
-    <div style="background:#f60909;border:1px solid #a0ae00;border-radius:14px;
+    <div style="background:#f6090900;border:1px solid #a0ae00;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
-            <span style="background:#0d6f00;color:rgb(107, 0, 0);border-radius:8px;
+            <span style="background:#000000;color:rgb(107, 0, 0);border-radius:8px;
                          padding:4px 10px;font-size:12px;font-weight:600;">2</span>
             <span style="font-size:16px;font-weight:600;color:#105efa;">how long</span>
         </div>
